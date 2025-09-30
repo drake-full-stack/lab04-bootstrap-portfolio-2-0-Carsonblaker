@@ -35,6 +35,7 @@ nav a:hover {
 	border-radius: 4px;
 }
 
+
 /* Sections */
 section {
 	padding: 3rem 2rem;
@@ -96,7 +97,7 @@ h2 {
 
 /* Contact Section */
 #contact {
-	background-color: #C0D6DF;
+	background-color: #E8DAB2;
 	text-align: center;
 }
 
